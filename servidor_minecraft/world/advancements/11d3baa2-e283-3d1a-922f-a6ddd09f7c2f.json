@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-24 23:36:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-24 23:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-04-24 23:44:43 +0000",
+      "minecraft:forest": "2025-04-24 23:36:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-24 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-04-24 23:53:34 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

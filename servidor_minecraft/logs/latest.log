@@ -1078,3 +1078,49 @@
 [24Apr2025 21:24:23.215] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
 [24Apr2025 21:27:45.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
 [24Apr2025 21:27:45.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[24Apr2025 23:29:08.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:45471] logged in with entity id 11020 at (-24.5, 67.0, 4.5)
+[24Apr2025 23:29:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[24Apr2025 23:29:09.030] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[24Apr2025 23:29:09.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Ice and Fire]
+[24Apr2025 23:35:22.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[24Apr2025 23:35:22.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[24Apr2025 23:36:51.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:40369] logged in with entity id 12656 at (-218.30000001192093, 74.0, 180.30000001192093)
+[24Apr2025 23:36:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[24Apr2025 23:36:51.768] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[24Apr2025 23:36:56.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.142.21.205:36937] logged in with entity id 12857 at (-40.5, 65.0, 0.5)
+[24Apr2025 23:36:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
+[24Apr2025 23:36:56.098] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)
+[24Apr2025 23:36:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Ice and Fire]
+[24Apr2025 23:37:05.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:48745] logged in with entity id 12983 at (-1520.348007123841, 63.0, -218.51566220357037)
+[24Apr2025 23:37:05.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[24Apr2025 23:37:05.508] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[24Apr2025 23:37:39.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP was slain by Zombie
+[24Apr2025 23:37:50.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[24Apr2025 23:37:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[24Apr2025 23:43:34.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:37425] logged in with entity id 14776 at (-36.90588353006809, 77.17675927506424, 10.699999988079071)
+[24Apr2025 23:43:34.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[24Apr2025 23:43:34.656] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[24Apr2025 23:45:37.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[24Apr2025 23:45:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[24Apr2025 23:48:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Stone Age]
+[24Apr2025 23:49:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Getting an Upgrade]
+[24Apr2025 23:50:16.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Monster Hunter]
+[24Apr2025 23:50:27.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[24Apr2025 23:50:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[24Apr2025 23:51:43.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sbPollo[/127.34.92.145:35621] logged in with entity id 18633 at (696.7972935971944, 130.0, -51.589658552518486)
+[24Apr2025 23:51:43.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo joined the game
+[24Apr2025 23:51:43.866] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
+[24Apr2025 23:52:55.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.142.21.205:46417] logged in with entity id 19211 at (-1057.4183575484726, 77.0, -720.7045146117675)
+[24Apr2025 23:52:55.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
+[24Apr2025 23:52:55.654] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)
+[24Apr2025 23:53:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Minecraft Comes Alive]
+[24Apr2025 23:53:42.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 tried to swim in lava
+[24Apr2025 23:54:06.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[24Apr2025 23:54:06.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[24Apr2025 23:54:55.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.142.21.205:53059] logged in with entity id 20466 at (-1056.1908123772657, 78.0, -722.0083797299594)
+[24Apr2025 23:54:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
+[24Apr2025 23:54:55.104] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)
+[24Apr2025 23:55:10.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[24Apr2025 23:55:10.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[24Apr2025 23:55:54.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[24Apr2025 23:55:54.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
