@@ -1056,3 +1056,15 @@
 [24Apr2025 18:45:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo joined the game
 [24Apr2025 18:45:35.651] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
 [24Apr2025 18:45:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Ice and Fire]
+[24Apr2025 18:51:40.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Monster Hunter]
+[24Apr2025 18:51:58.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was slain by Zombie
+[24Apr2025 18:52:02.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
+[24Apr2025 18:52:02.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[24Apr2025 18:53:14.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sbPollo[/127.34.92.145:55815] logged in with entity id 3341 at (-28.5, 65.0, 6.5)
+[24Apr2025 18:53:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo joined the game
+[24Apr2025 18:53:14.852] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
+[24Apr2025 18:54:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was turned into gorgonzola by Gorgon
+[24Apr2025 18:55:34.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Who You Gonna Call?]
+[24Apr2025 18:55:39.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was slain by Ghost
+[24Apr2025 18:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Acquire Hardware]
+[24Apr2025 18:56:47.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was slain by Ghost
