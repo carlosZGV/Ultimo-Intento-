@@ -4694,3 +4694,9 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [24Apr2025 21:24:23.215] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
 [24Apr2025 21:27:45.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
 [24Apr2025 21:27:45.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[24Apr2025 21:28:48.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 21:28:48.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 21:33:48.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 21:33:48.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 21:38:48.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 21:38:48.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
