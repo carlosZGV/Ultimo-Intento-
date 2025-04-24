@@ -1068,3 +1068,8 @@
 [24Apr2025 18:55:39.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was slain by Ghost
 [24Apr2025 18:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Acquire Hardware]
 [24Apr2025 18:56:47.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was slain by Ghost
+[24Apr2025 19:05:02.471] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[24Apr2025 19:05:07.338] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[24Apr2025 19:06:25.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo fell from a high place
+[24Apr2025 19:06:28.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
+[24Apr2025 19:06:28.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
