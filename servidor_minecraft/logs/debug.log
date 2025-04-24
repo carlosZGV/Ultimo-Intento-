@@ -4104,3 +4104,11 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [24Apr2025 18:24:54.582] [Worker-Main-10/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
 [24Apr2025 18:24:54.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
 [24Apr2025 18:24:56.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Minecraft Comes Alive]
+[24Apr2025 18:28:49.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 18:28:49.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 18:29:14.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Wladimir'/912, l='ServerLevel[world]', x=-1512.06, y=63.54, z=-382.70] died, message: 'Wladimir burned to death'
+[24Apr2025 18:29:18.694] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lyubov'/1025, l='ServerLevel[world]', x=-1498.57, y=64.00, z=-400.42] died, message: 'Lyubov was burnt to a crisp whilst fighting Fire Dragon'
+[24Apr2025 18:30:27.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[24Apr2025 18:30:27.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[24Apr2025 18:33:48.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 18:33:49.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
