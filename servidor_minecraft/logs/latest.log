@@ -1073,3 +1073,8 @@
 [24Apr2025 19:06:25.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo fell from a high place
 [24Apr2025 19:06:28.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
 [24Apr2025 19:06:28.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[24Apr2025 21:24:23.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:60485] logged in with entity id 9814 at (-1486.699999988079, 64.5625, -349.30000001192093)
+[24Apr2025 21:24:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[24Apr2025 21:24:23.215] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[24Apr2025 21:27:45.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[24Apr2025 21:27:45.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
