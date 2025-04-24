@@ -1052,3 +1052,7 @@
 [24Apr2025 18:29:18.694] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lyubov'/1025, l='ServerLevel[world]', x=-1498.57, y=64.00, z=-400.42] died, message: 'Lyubov was burnt to a crisp whilst fighting Fire Dragon'
 [24Apr2025 18:30:27.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
 [24Apr2025 18:30:27.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[24Apr2025 18:45:35.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sbPollo[/127.34.92.145:51121] logged in with entity id 2230 at (-40.5, 65.0, 0.5)
+[24Apr2025 18:45:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo joined the game
+[24Apr2025 18:45:35.651] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
+[24Apr2025 18:45:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Ice and Fire]
