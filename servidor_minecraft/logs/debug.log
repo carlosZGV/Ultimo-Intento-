@@ -4471,3 +4471,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [24Apr2025 19:06:25.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo fell from a high place
 [24Apr2025 19:06:28.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
 [24Apr2025 19:06:28.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[24Apr2025 19:08:48.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 19:08:49.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 19:13:48.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 19:13:48.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
