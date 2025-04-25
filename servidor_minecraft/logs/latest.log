@@ -450,3 +450,9 @@
 [25Apr2025 22:53:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Sweet Dreams]
 [25Apr2025 22:56:33.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=560, y=26, z=770} but found not block entity block Block{minecraft:water}[level=1] at location
 [25Apr2025 22:56:33.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=560, y=26, z=770}
+[25Apr2025 23:11:32.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[25Apr2025 23:11:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[25Apr2025 23:11:32.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Apr2025 23:11:32.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Apr2025 23:11:32.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Apr2025 23:11:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
