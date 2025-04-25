@@ -13,14 +13,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-25 23:22:25 +0000",
       "minecraft:bamboo_jungle": "2025-04-25 22:59:16 +0000",
       "minecraft:beach": "2025-04-25 22:42:43 +0000",
+      "minecraft:dark_forest": "2025-04-25 23:23:37 +0000",
       "minecraft:mangrove_swamp": "2025-04-25 22:48:42 +0000",
       "minecraft:sparse_jungle": "2025-04-25 22:59:38 +0000",
       "minecraft:lukewarm_ocean": "2025-04-25 22:56:37 +0000",
       "minecraft:stony_shore": "2025-04-25 22:59:28 +0000",
       "minecraft:desert": "2025-04-25 22:49:31 +0000",
       "minecraft:jungle": "2025-04-25 22:59:08 +0000",
+      "minecraft:ocean": "2025-04-25 23:22:22 +0000",
+      "minecraft:windswept_savanna": "2025-04-25 23:24:30 +0000",
       "minecraft:warm_ocean": "2025-04-25 22:50:35 +0000",
       "minecraft:savanna": "2025-04-25 22:57:07 +0000",
       "minecraft:plains": "2025-04-25 22:49:06 +0000"
@@ -150,6 +154,42 @@
   "farmersdelight:main/place_skillet": {
     "criteria": {
       "skillet": "2025-04-25 22:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-25 23:22:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 23:22:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 23:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-04-25 23:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-25 23:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-25 23:22:56 +0000"
     },
     "done": true
   },
