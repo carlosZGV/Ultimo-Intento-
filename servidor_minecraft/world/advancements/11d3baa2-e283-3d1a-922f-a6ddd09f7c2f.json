@@ -15,6 +15,7 @@
     "criteria": {
       "minecraft:taiga": "2025-04-26 04:19:39 +0000",
       "minecraft:birch_forest": "2025-04-26 04:40:10 +0000",
+      "minecraft:badlands": "2025-04-26 21:35:08 +0000",
       "minecraft:beach": "2025-04-26 04:14:23 +0000",
       "minecraft:sparse_jungle": "2025-04-26 05:04:37 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 04:42:40 +0000",
@@ -22,6 +23,7 @@
       "minecraft:dripstone_caves": "2025-04-26 06:03:46 +0000",
       "minecraft:forest": "2025-04-26 04:19:46 +0000",
       "minecraft:lush_caves": "2025-04-26 06:02:31 +0000",
+      "minecraft:desert": "2025-04-26 21:34:02 +0000",
       "minecraft:jungle": "2025-04-26 06:00:17 +0000",
       "minecraft:savanna": "2025-04-26 05:40:46 +0000",
       "minecraft:plains": "2025-04-26 04:44:42 +0000"
@@ -961,9 +963,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 04:39:28 +0000",
+      "chicken": "2025-04-26 21:31:05 +0000",
       "cooked_mutton": "2025-04-26 21:27:12 +0000",
+      "sweet_berries": "2025-04-26 22:11:03 +0000",
+      "cooked_beef": "2025-04-26 21:41:43 +0000",
       "bread": "2025-04-26 05:11:17 +0000",
-      "dried_kelp": "2025-04-26 06:00:16 +0000"
+      "dried_kelp": "2025-04-26 06:00:16 +0000",
+      "melon_slice": "2025-04-26 22:01:49 +0000",
+      "cooked_chicken": "2025-04-26 21:49:57 +0000"
     },
     "done": false
   },
@@ -2368,6 +2375,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-26 21:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-26 21:13:06 +0000"
@@ -2392,9 +2405,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-26 21:52:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-26 21:54:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-26 21:42:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-04-26 21:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-26 21:52:26 +0000"
     },
     "done": true
   },
@@ -2410,9 +2447,22 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-04-26 22:11:07 +0000",
+      "wheat": "2025-04-26 21:28:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-26 21:09:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-26 21:52:26 +0000"
     },
     "done": true
   },
@@ -2452,6 +2502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-26 21:54:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-04-26 21:27:03 +0000"
@@ -2470,6 +2526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-26 21:54:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-04-26 21:24:00 +0000"
@@ -2482,15 +2544,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-26 21:32:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-04-26 21:24:00 +0000"
     },
     "done": true
   },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-04-26 21:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-26 21:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-26 21:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-26 21:54:33 +0000"
     },
     "done": true
   },
@@ -2533,6 +2619,18 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-04-26 21:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-26 21:28:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-26 21:42:59 +0000"
     },
     "done": true
   },
