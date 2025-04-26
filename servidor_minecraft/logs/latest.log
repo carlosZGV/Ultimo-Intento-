@@ -245,3 +245,29 @@
 [26Apr2025 04:41:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
 [26Apr2025 04:41:54.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Teleported 6 entities to carlosZGV]
 [26Apr2025 04:42:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[26Apr2025 04:44:31.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=88, z=308} BlockPos{x=-116, y=65, z=97}
+[26Apr2025 04:44:34.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=88, z=308} BlockPos{x=-117, y=65, z=97}
+[26Apr2025 04:44:34.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=88, z=308} BlockPos{x=-118, y=65, z=97}
+[26Apr2025 04:44:35.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=88, z=308} BlockPos{x=-117, y=65, z=97}
+[26Apr2025 04:44:35.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=88, z=308} BlockPos{x=-116, y=65, z=97}
+[26Apr2025 04:46:57.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OneLlop lost connection: Disconnected
+[26Apr2025 04:46:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OneLlop left the game
+[26Apr2025 04:48:01.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[26Apr2025 04:48:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[26Apr2025 04:48:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Acquire Hardware]
+[26Apr2025 04:48:24.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[26Apr2025 04:48:25.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was shot by Skeleton
+[26Apr2025 04:48:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Getting an Upgrade]
+[26Apr2025 04:48:55.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Monster Hunter]
+[26Apr2025 04:49:03.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Monster Hunter]
+[26Apr2025 04:49:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was shot by Skeleton
+[26Apr2025 04:49:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Not Today, Thank You]
+[26Apr2025 04:49:20.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:40209] logged in with entity id 19601 at (-149.6064254306794, 63.0, 137.39075872032734)
+[26Apr2025 04:49:20.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[26Apr2025 04:49:21.006] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[26Apr2025 04:50:00.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Sweet Dreams]
+[26Apr2025 04:52:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[26Apr2025 04:52:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[26Apr2025 04:52:44.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[26Apr2025 04:52:46.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[26Apr2025 04:53:32.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Crops of the Wild]
