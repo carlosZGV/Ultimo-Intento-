@@ -15,6 +15,8 @@
     "criteria": {
       "minecraft:beach": "2025-04-26 04:13:55 +0000",
       "minecraft:sparse_jungle": "2025-04-26 20:27:24 +0000",
+      "minecraft:river": "2025-04-26 20:42:12 +0000",
+      "minecraft:jungle": "2025-04-26 20:42:25 +0000",
       "minecraft:windswept_savanna": "2025-04-26 20:30:27 +0000",
       "minecraft:plains": "2025-04-26 04:18:49 +0000"
     },
@@ -1204,6 +1206,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-26 20:38:19 +0000",
       "minecraft:spider": "2025-04-26 04:49:02 +0000",
       "minecraft:zombie": "2025-04-26 04:48:55 +0000"
     },
@@ -1571,6 +1574,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-04-26 20:38:33 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-04-26 20:28:13 +0000"
@@ -1592,6 +1601,12 @@
   "mca:recipes/decorations/black_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-04-26 20:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-26 20:40:33 +0000"
     },
     "done": true
   },
@@ -1634,6 +1649,12 @@
   "mca:recipes/decorations/pink_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-04-26 20:29:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-26 20:40:33 +0000"
     },
     "done": true
   },

@@ -180,3 +180,67 @@
 [26Apr2025 20:39:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
 [26Apr2025 20:39:16.824] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
 [26Apr2025 20:41:20.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was slain by AngeloRLP
+[26Apr2025 20:42:26.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo drowned
+[26Apr2025 20:42:29.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[26Apr2025 20:42:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[26Apr2025 20:43:40.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
+[26Apr2025 20:43:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[26Apr2025 20:46:28.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.210.22.254:44497] logged in with entity id 15440 at (-510.6358371495273, 25.0, 239.6859733473541)
+[26Apr2025 20:46:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
+[26Apr2025 20:46:28.307] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)
+[26Apr2025 20:49:45.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:58865] logged in with entity id 16977 at (-30.856254543584793, 62.0, 148.62545433632695)
+[26Apr2025 20:49:45.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[26Apr2025 20:49:45.958] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[26Apr2025 20:49:49.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:38251] logged in with entity id 17189 at (-769.8474409288834, 63.0, 259.44317632511655)
+[26Apr2025 20:49:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[26Apr2025 20:49:49.494] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[26Apr2025 20:51:48.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Hot Stuff]
+[26Apr2025 20:51:55.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[26Apr2025 20:51:55.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[26Apr2025 20:52:27.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:46985] logged in with entity id 19022 at (-622.654945304894, -34.0, 387.63517730063035)
+[26Apr2025 20:52:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[26Apr2025 20:52:27.657] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[26Apr2025 20:56:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Diamonds!]
+[26Apr2025 20:57:47.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ERENGG[/127.136.24.28:51137] logged in with entity id 23051 at (-111.5, 65.0, 95.5)
+[26Apr2025 20:57:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG joined the game
+[26Apr2025 20:57:47.792] [Server thread/INFO] [Jade/]: Syncing config to ERENGG (92ab8e8f-3e1c-3e1b-a2e0-04bc0fad943c)
+[26Apr2025 20:57:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG has made the advancement [Ice and Fire]
+[26Apr2025 20:58:02.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Isn't It Iron Pick]
+[26Apr2025 20:59:29.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Not Today, Thank You]
+[26Apr2025 21:00:27.555] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[26Apr2025 21:00:28.034] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[26Apr2025 21:00:29.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3024ms or 60 ticks behind
+[26Apr2025 21:00:30.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG has reached the goal [A Metropolis of Restless Souls]
+[26Apr2025 21:00:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[26Apr2025 21:01:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Teleported ERENGG to AngeloRLP]
+[26Apr2025 21:03:50.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Hide and Seek]
+[26Apr2025 21:04:04.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Teleported ERENGG to AngeloRLP]
+[26Apr2025 21:05:08.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Teleported ERENGG to AngeloRLP]
+[26Apr2025 21:05:28.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG has made the advancement [Stone Age]
+[26Apr2025 21:05:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG has made the advancement [Getting an Upgrade]
+[26Apr2025 21:05:38.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[26Apr2025 21:06:30.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[26Apr2025 21:06:30.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[26Apr2025 21:07:09.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Not Today, Thank You]
+[26Apr2025 21:09:41.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:42961] logged in with entity id 33842 at (-148.1128770143314, 62.0, 151.56008763829416)
+[26Apr2025 21:09:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[26Apr2025 21:09:41.950] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[26Apr2025 21:13:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV fell from a high place
+[26Apr2025 21:14:01.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[26Apr2025 21:14:14.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ERENGG> gg
+[26Apr2025 21:14:28.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Spectator Mode]
+[26Apr2025 21:14:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[26Apr2025 21:15:01.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[26Apr2025 21:15:47.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[26Apr2025 21:15:47.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[26Apr2025 21:20:42.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Take Aim]
+[26Apr2025 21:21:11.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG was blown up by Creeper
+[26Apr2025 21:21:11.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG has made the advancement [Monster Hunter]
+[26Apr2025 21:21:18.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG has made the advancement [Sneak 100]
+[26Apr2025 21:25:13.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ERENGG lost connection: Disconnected
+[26Apr2025 21:25:13.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ERENGG left the game
+[26Apr2025 21:28:02.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [A Seedy Place]
+[26Apr2025 21:29:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Ice Bucket Challenge]
+[26Apr2025 21:31:24.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[26Apr2025 21:31:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[26Apr2025 21:31:34.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was doomed to fall by Phantom
