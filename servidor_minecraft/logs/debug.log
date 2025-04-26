@@ -4235,3 +4235,10 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [26Apr2025 05:43:27.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Teleported 3 entities to carlosZGV]
 [26Apr2025 05:43:52.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 05:43:52.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 05:48:52.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 05:48:52.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 05:49:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Not Today, Thank You]
+[26Apr2025 05:52:49.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Hide and Seek]
+[26Apr2025 05:53:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Isn't It Iron Pick]
+[26Apr2025 05:53:52.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 05:53:52.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
