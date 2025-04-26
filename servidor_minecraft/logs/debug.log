@@ -4242,3 +4242,24 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [26Apr2025 05:53:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Isn't It Iron Pick]
 [26Apr2025 05:53:52.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 05:53:52.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 05:58:24.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [The Parrots and the Bats]
+[26Apr2025 05:58:52.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 05:58:52.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 06:00:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Diamonds!]
+[26Apr2025 06:02:20.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV was shot by Skeleton
+[26Apr2025 06:03:07.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[26Apr2025 06:03:12.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[26Apr2025 06:03:45.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Diamonds!]
+[26Apr2025 06:03:52.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 06:03:52.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 06:08:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [The Cutest Predator]
+[26Apr2025 06:08:52.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 06:08:52.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 06:10:29.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[26Apr2025 06:10:29.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[26Apr2025 06:12:18.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[26Apr2025 06:12:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[26Apr2025 06:12:57.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[26Apr2025 06:12:57.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[26Apr2025 06:13:52.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 06:13:52.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
