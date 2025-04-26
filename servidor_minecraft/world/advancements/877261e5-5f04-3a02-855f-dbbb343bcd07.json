@@ -22,6 +22,7 @@
       "minecraft:lukewarm_ocean": "2025-04-25 22:56:37 +0000",
       "minecraft:river": "2025-04-26 04:40:38 +0000",
       "minecraft:stony_shore": "2025-04-25 22:59:28 +0000",
+      "minecraft:forest": "2025-04-26 05:23:27 +0000",
       "minecraft:desert": "2025-04-25 22:49:31 +0000",
       "minecraft:jungle": "2025-04-25 22:59:08 +0000",
       "minecraft:ocean": "2025-04-25 23:22:22 +0000",
@@ -305,6 +306,12 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-26 04:48:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-26 05:22:37 +0000"
     },
     "done": true
   },
@@ -1030,6 +1037,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-26 05:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 05:06:12 +0000"
@@ -1162,6 +1175,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-26 05:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-04-26 05:06:49 +0000"
@@ -1183,6 +1202,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-26 05:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-26 05:22:05 +0000"
     },
     "done": true
   },
@@ -1213,6 +1238,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-26 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-26 05:17:44 +0000"
     },
     "done": true
   },
@@ -1282,6 +1313,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-26 05:22:36 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-04-26 05:06:49 +0000"
@@ -1303,6 +1340,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-26 05:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-26 05:22:05 +0000"
     },
     "done": true
   },

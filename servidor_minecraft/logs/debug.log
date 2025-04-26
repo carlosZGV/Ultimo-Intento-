@@ -4212,3 +4212,11 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [26Apr2025 05:13:35.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
 [26Apr2025 05:13:52.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 05:13:52.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 05:14:13.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[26Apr2025 05:14:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[26Apr2025 05:17:58.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Suit Up]
+[26Apr2025 05:18:52.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 05:18:52.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 05:22:37.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Bonfire Lit]
+[26Apr2025 05:23:52.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 05:23:52.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

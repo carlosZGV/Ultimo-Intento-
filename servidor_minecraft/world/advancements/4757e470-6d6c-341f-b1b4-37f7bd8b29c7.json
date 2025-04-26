@@ -639,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-26 05:23:03 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2025-04-26 04:51:06 +0000"
@@ -888,6 +894,12 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-04-26 04:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-26 05:17:58 +0000"
     },
     "done": true
   },
@@ -1577,6 +1589,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-26 05:23:51 +0000",
       "porkchop": "2025-04-26 04:51:22 +0000",
       "mutton": "2025-04-26 04:53:18 +0000",
       "carrot": "2025-04-26 04:56:11 +0000"
