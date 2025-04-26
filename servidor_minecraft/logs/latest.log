@@ -208,3 +208,40 @@
 [26Apr2025 04:32:20.872] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
 [26Apr2025 04:32:26.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Sweet Dreams]
 [26Apr2025 04:32:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo hit the ground too hard
+[26Apr2025 04:33:06.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
+[26Apr2025 04:33:06.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[26Apr2025 04:33:28.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sbPollo[/127.34.92.145:36039] logged in with entity id 9847 at (-171.75207472517593, 62.0, 198.93656992951318)
+[26Apr2025 04:33:28.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo joined the game
+[26Apr2025 04:33:29.023] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
+[26Apr2025 04:34:10.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Getting an Upgrade]
+[26Apr2025 04:34:17.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OneLlop was shot by Skeleton
+[26Apr2025 04:34:48.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Stone Age]
+[26Apr2025 04:35:17.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:45505] logged in with entity id 10629 at (226.51249998807907, 64.0, 943.8549097510332)
+[26Apr2025 04:35:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[26Apr2025 04:35:17.264] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[26Apr2025 04:35:46.112] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[26Apr2025 04:35:46.113] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[26Apr2025 04:35:46.135] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[26Apr2025 04:35:46.136] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[26Apr2025 04:36:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Getting an Upgrade]
+[26Apr2025 04:37:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo has made the advancement [Acquire Hardware]
+[26Apr2025 04:37:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Stone Age]
+[26Apr2025 04:38:13.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OneLlop lost connection: Disconnected
+[26Apr2025 04:38:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OneLlop left the game
+[26Apr2025 04:38:20.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OneLlop[/127.136.24.28:50071] logged in with entity id 13425 at (-167.70293047795988, 64.0, 258.16723069786616)
+[26Apr2025 04:38:20.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OneLlop joined the game
+[26Apr2025 04:38:20.631] [Server thread/INFO] [Jade/]: Syncing config to OneLlop (ceb420b3-c6c0-3352-8f9d-4de30ba68c04)
+[26Apr2025 04:38:56.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=85}
+[26Apr2025 04:38:56.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=84}
+[26Apr2025 04:38:56.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=84}
+[26Apr2025 04:38:56.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=84}
+[26Apr2025 04:38:58.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=87}
+[26Apr2025 04:38:58.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=87}
+[26Apr2025 04:38:58.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=87}
+[26Apr2025 04:38:58.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=64, z=257} BlockPos{x=-102, y=62, z=85}
+[26Apr2025 04:39:12.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OneLlop has made the advancement [Crops of the Wild]
+[26Apr2025 04:40:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Monster Hunter]
+[26Apr2025 04:40:58.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-347, y=63, z=307} BlockPos{x=-349, y=63, z=307}
+[26Apr2025 04:41:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[26Apr2025 04:41:54.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Teleported 6 entities to carlosZGV]
+[26Apr2025 04:42:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
