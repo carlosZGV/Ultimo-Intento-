@@ -277,6 +277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-26 05:38:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 05:11:25 +0000"
@@ -448,6 +454,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-26 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-26 05:42:14 +0000"
     },
     "done": true
   },
@@ -715,6 +727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-26 05:38:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-26 04:21:36 +0000"
@@ -928,6 +946,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 05:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-26 05:38:54 +0000"
     },
     "done": true
   },
@@ -1279,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-26 05:38:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-04-26 04:23:51 +0000"
@@ -1489,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-26 05:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-26 05:15:43 +0000"
@@ -1552,6 +1588,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-26 04:34:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-26 05:38:51 +0000"
     },
     "done": true
   },
@@ -1720,6 +1762,7 @@
       "minecraft:lukewarm_ocean": "2025-04-26 04:42:40 +0000",
       "minecraft:river": "2025-04-26 05:23:20 +0000",
       "minecraft:forest": "2025-04-26 04:19:46 +0000",
+      "minecraft:savanna": "2025-04-26 05:40:46 +0000",
       "minecraft:plains": "2025-04-26 04:44:42 +0000"
     },
     "done": false
