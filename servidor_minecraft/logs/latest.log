@@ -178,3 +178,7 @@
 [27Apr2025 23:29:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Book of Monsters]
 [27Apr2025 23:31:27.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
 [27Apr2025 23:31:27.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[27Apr2025 23:36:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has reached the goal [Off you go]
+[27Apr2025 23:43:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Book of Monsters]
+[27Apr2025 23:45:41.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=42, y=29, z=3845} but found not block entity block Block{minecraft:water}[level=0] at location
+[27Apr2025 23:45:41.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=42, y=29, z=3845}
