@@ -169,3 +169,12 @@
 [27Apr2025 23:18:41.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1405, y=-54, z=211}
 [27Apr2025 23:18:46.518] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [27Apr2025 23:23:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Voluntary Exile]
+[27Apr2025 23:25:46.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:59523] logged in with entity id 12137 at (-889.6705254775475, 67.0, 2482.695586049309)
+[27Apr2025 23:25:46.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[27Apr2025 23:25:46.956] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[27Apr2025 23:26:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Ice Bucket Challenge]
+[27Apr2025 23:28:03.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=521, y=24, z=3587} but found not block entity block Block{minecraft:water}[level=8] at location
+[27Apr2025 23:28:03.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=521, y=24, z=3587}
+[27Apr2025 23:29:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Book of Monsters]
+[27Apr2025 23:31:27.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[27Apr2025 23:31:27.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
