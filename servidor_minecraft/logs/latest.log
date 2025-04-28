@@ -852,3 +852,11 @@
 [28Apr2025 00:32:34.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [28Apr2025 00:32:34.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [28Apr2025 00:33:20.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngeloRLP> ZZZ
+[28Apr2025 00:45:45.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[28Apr2025 00:45:45.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[28Apr2025 00:46:02.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:40479] logged in with entity id 48758 at (484.2379776640676, 22.0, 4527.220557127371)
+[28Apr2025 00:46:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[28Apr2025 00:46:02.367] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[28Apr2025 00:52:43.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.210.22.254:46667] logged in with entity id 51375 at (-642.541071101222, 70.0, 624.0135032820498)
+[28Apr2025 00:52:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
+[28Apr2025 00:52:43.090] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)

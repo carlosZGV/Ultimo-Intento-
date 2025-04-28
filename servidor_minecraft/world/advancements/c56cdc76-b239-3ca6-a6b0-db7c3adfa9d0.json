@@ -3530,7 +3530,19 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-04-28 00:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-28 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-28 00:25:22 +0000"
     },
@@ -3542,15 +3554,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/lectern": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "bestiary": "2025-04-28 00:07:59 +0000"
+      "has_smelts_to_glass": "2025-04-28 00:55:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_lapis_lazuli": "2025-04-28 00:25:22 +0000"
+      "has_sand": "2025-04-28 00:55:51 +0000"
     },
     "done": true
   },
