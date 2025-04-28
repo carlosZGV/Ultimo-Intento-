@@ -967,6 +967,7 @@
       "cooked_mutton": "2025-04-26 21:27:12 +0000",
       "sweet_berries": "2025-04-26 22:11:03 +0000",
       "cooked_beef": "2025-04-26 21:41:43 +0000",
+      "mutton": "2025-04-28 01:27:03 +0000",
       "bread": "2025-04-26 05:11:17 +0000",
       "dried_kelp": "2025-04-26 06:00:16 +0000",
       "melon_slice": "2025-04-26 22:01:49 +0000",
@@ -2643,6 +2644,36 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-04-26 21:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-28 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-28 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-28 01:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-28 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-28 01:20:17 +0000"
     },
     "done": true
   },

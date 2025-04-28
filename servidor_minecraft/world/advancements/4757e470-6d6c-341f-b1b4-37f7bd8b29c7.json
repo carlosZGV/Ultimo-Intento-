@@ -13,15 +13,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-28 01:12:14 +0000",
       "minecraft:beach": "2025-04-26 04:20:44 +0000",
       "minecraft:sparse_jungle": "2025-04-26 04:50:18 +0000",
       "minecraft:river": "2025-04-26 04:57:55 +0000",
       "minecraft:dripstone_caves": "2025-04-26 06:11:37 +0000",
       "minecraft:grove": "2025-04-28 00:38:56 +0000",
+      "minecraft:jagged_peaks": "2025-04-28 01:13:15 +0000",
       "minecraft:forest": "2025-04-26 04:57:58 +0000",
       "minecraft:lush_caves": "2025-04-26 20:37:41 +0000",
       "minecraft:desert": "2025-04-26 05:38:20 +0000",
       "minecraft:jungle": "2025-04-26 06:01:58 +0000",
+      "minecraft:deep_dark": "2025-04-28 01:01:19 +0000",
       "minecraft:meadow": "2025-04-28 00:26:40 +0000",
       "minecraft:savanna": "2025-04-26 05:37:41 +0000",
       "minecraft:plains": "2025-04-26 04:46:39 +0000"
@@ -2910,18 +2913,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-28 00:33:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-28 00:53:59 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2025-04-28 00:26:14 +0000"
@@ -2934,57 +2925,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-04-28 00:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-04-28 00:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-04-28 00:47:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-28 00:26:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-28 00:49:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-04-28 00:47:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-28 00:26:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-28 00:53:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-04-28 00:47:26 +0000"
     },
     "done": true
   },
@@ -3006,15 +2955,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_emerald": "2025-04-28 00:40:15 +0000"
+      "has_stone_bricks": "2025-04-28 00:26:14 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_wheat": "2025-04-28 00:47:26 +0000"
+      "has_stone_bricks": "2025-04-28 00:26:14 +0000"
     },
     "done": true
   },
@@ -3024,15 +2973,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_stone_bricks": "2025-04-28 00:26:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-28 00:49:04 +0000"
+      "has_flint": "2025-04-28 00:33:15 +0000"
     },
     "done": true
   },
@@ -3042,9 +2985,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_stone_bricks": "2025-04-28 00:26:14 +0000"
+      "has_emerald": "2025-04-28 00:40:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-28 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-28 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-28 00:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-28 00:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-28 01:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-28 01:05:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-04-28 01:01:19 +0000"
     },
     "done": true
   },

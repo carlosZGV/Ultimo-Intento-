@@ -860,3 +860,30 @@
 [28Apr2025 00:52:43.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.210.22.254:46667] logged in with entity id 51375 at (-642.541071101222, 70.0, 624.0135032820498)
 [28Apr2025 00:52:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
 [28Apr2025 00:52:43.090] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)
+[28Apr2025 00:59:27.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[28Apr2025 00:59:27.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[28Apr2025 00:59:31.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[28Apr2025 00:59:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[28Apr2025 00:59:49.252] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44915a1f[id=<null>,name=machucado,properties={},legacy=false] (/127.154.119.84:56349) lost connection: Disconnected
+[28Apr2025 00:59:59.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:39435] logged in with entity id 55391 at (-1265.6789741874363, -18.0, 2971.421852053984)
+[28Apr2025 00:59:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[28Apr2025 00:59:59.112] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[28Apr2025 01:05:31.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Cover Me with Diamonds]
+[28Apr2025 01:06:06.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:40727] logged in with entity id 59188 at (429.99583862486963, 69.0, 4534.957123757335)
+[28Apr2025 01:06:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[28Apr2025 01:06:06.816] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[28Apr2025 01:08:41.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=72, z=774} BlockPos{x=-1038, y=70, z=773}
+[28Apr2025 01:08:41.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=72, z=774} BlockPos{x=-1038, y=70, z=773}
+[28Apr2025 01:08:41.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=72, z=774} BlockPos{x=-1038, y=70, z=773}
+[28Apr2025 01:08:42.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1038, y=72, z=770} BlockPos{x=-1039, y=70, z=770}
+[28Apr2025 01:08:43.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1039, y=72, z=767} BlockPos{x=-1038, y=70, z=766}
+[28Apr2025 01:08:43.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1039, y=72, z=767} BlockPos{x=-1038, y=70, z=766}
+[28Apr2025 01:08:43.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1039, y=72, z=767} BlockPos{x=-1038, y=70, z=766}
+[28Apr2025 01:11:57.101] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[28Apr2025 01:11:57.328] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[28Apr2025 01:20:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Who You Gonna Call?]
+[28Apr2025 01:20:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was slain by Ghost
+[28Apr2025 01:24:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Take Aim]
+[28Apr2025 01:27:38.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was shot by Skeleton
+[28Apr2025 01:27:49.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[28Apr2025 01:27:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game

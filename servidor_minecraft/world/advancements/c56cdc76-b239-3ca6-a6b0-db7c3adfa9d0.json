@@ -20,6 +20,7 @@
       "minecraft:river": "2025-04-26 04:23:38 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 21:04:24 +0000",
       "minecraft:forest": "2025-04-26 04:23:44 +0000",
+      "minecraft:lush_caves": "2025-04-28 01:25:31 +0000",
       "minecraft:desert": "2025-04-26 21:04:43 +0000",
       "minecraft:jungle": "2025-04-26 20:42:26 +0000",
       "minecraft:ocean": "2025-04-27 23:18:54 +0000",
@@ -3563,6 +3564,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-28 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-04-28 01:09:55 +0000"
     },
     "done": true
   },
