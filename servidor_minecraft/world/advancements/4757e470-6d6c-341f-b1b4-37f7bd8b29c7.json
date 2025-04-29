@@ -3596,9 +3596,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-29 22:02:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_rich_soil": {
     "criteria": {
       "get_rich_soil": "2025-04-29 20:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-29 22:23:22 +0000"
     },
     "done": true
   },
@@ -3611,6 +3623,12 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-04-29 21:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-29 22:07:10 +0000"
     },
     "done": true
   },
@@ -3650,6 +3668,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-29 22:19:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-04-29 21:04:50 +0000"
@@ -3662,6 +3686,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-29 22:02:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-04-29 20:57:55 +0000"
@@ -3671,6 +3701,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-29 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-29 22:02:31 +0000"
     },
     "done": true
   },
@@ -3722,6 +3758,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-29 22:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 22:13:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-04-29 21:38:53 +0000"
@@ -3734,9 +3782,21 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-29 22:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-29 21:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-29 22:02:13 +0000"
     },
     "done": true
   },
@@ -3749,6 +3809,18 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-29 21:45:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-29 22:05:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-29 22:02:31 +0000"
     },
     "done": true
   },
@@ -3785,6 +3857,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-29 21:45:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-29 22:13:44 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-29 22:02:31 +0000"
     },
     "done": true
   },
