@@ -158,3 +158,7 @@
 [29Apr2025 19:32:44.370] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [29Apr2025 19:32:44.370] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [29Apr2025 19:32:44.370] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Apr2025 19:59:28.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [A Seedy Place]
+[29Apr2025 20:03:23.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado was blown up by Creeper
+[29Apr2025 20:07:00.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado walked into fire whilst fighting Fire Dragon
+[29Apr2025 20:12:04.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=63, z=1176} BlockPos{x=-114, y=62, z=1176}
