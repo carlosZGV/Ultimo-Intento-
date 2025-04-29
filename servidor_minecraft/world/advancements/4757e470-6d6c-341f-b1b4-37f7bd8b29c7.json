@@ -3401,11 +3401,19 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2025-04-29 19:57:37 +0000",
+      "rice": "2025-04-29 20:18:13 +0000",
       "sugar_cane": "2025-04-29 19:38:52 +0000",
       "potato": "2025-04-29 19:52:51 +0000",
-      "wheat": "2025-04-29 19:59:28 +0000"
+      "wheat": "2025-04-29 19:59:28 +0000",
+      "carrot": "2025-04-29 20:18:07 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-04-29 20:18:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
@@ -3452,6 +3460,12 @@
   "mca:recipes/decorations/magenta_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-29 19:57:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-29 20:18:13 +0000"
     },
     "done": true
   },
