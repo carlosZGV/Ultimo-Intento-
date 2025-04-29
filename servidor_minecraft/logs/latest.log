@@ -255,3 +255,9 @@
 [29Apr2025 22:19:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo burned to death
 [29Apr2025 22:32:33.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
 [29Apr2025 22:32:33.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[29Apr2025 22:39:08.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[29Apr2025 22:39:08.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[29Apr2025 22:39:27.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[29Apr2025 22:39:27.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[29Apr2025 22:40:07.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[29Apr2025 22:40:07.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game

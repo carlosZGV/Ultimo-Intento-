@@ -3145,3 +3145,13 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [29Apr2025 22:32:05.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Apr2025 22:32:33.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
 [29Apr2025 22:32:33.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[29Apr2025 22:37:05.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 22:37:05.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 22:39:08.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[29Apr2025 22:39:08.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[29Apr2025 22:39:27.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[29Apr2025 22:39:27.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[29Apr2025 22:40:07.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[29Apr2025 22:40:07.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[29Apr2025 22:42:05.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 22:42:05.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
