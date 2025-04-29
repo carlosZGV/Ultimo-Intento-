@@ -167,3 +167,7 @@
 [29Apr2025 16:23:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has reached the goal [Off you go]
 [29Apr2025 17:15:59.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Take Aim]
 [29Apr2025 17:39:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was slain by Enderman
+[29Apr2025 17:45:58.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was blown up by Creeper
+[29Apr2025 17:46:22.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was blown up by Creeper
+[29Apr2025 17:52:05.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[29Apr2025 17:52:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
