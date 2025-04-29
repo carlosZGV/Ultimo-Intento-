@@ -3602,6 +3602,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-29 21:43:16 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-04-29 21:00:37 +0000"
@@ -3623,6 +3629,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-04-29 21:04:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-29 21:47:42 +0000"
     },
     "done": true
   },
@@ -3668,6 +3680,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-29 21:45:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-04-29 21:41:15 +0000"
@@ -3683,6 +3701,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-29 21:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-04-29 21:45:17 +0000"
     },
     "done": true
   },
@@ -3716,6 +3740,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-29 21:43:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-29 21:45:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_skillet": {
     "criteria": {
       "skillet": "2025-04-29 20:53:54 +0000"
@@ -3743,6 +3779,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-29 21:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-29 21:45:18 +0000"
     },
     "done": true
   },
