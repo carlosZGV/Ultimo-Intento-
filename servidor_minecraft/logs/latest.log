@@ -1604,3 +1604,5 @@
 [29Apr2025 05:27:40.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carlosZGV) moved wrongly! 0.7603949713135241
 [29Apr2025 05:33:40.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
 [29Apr2025 05:33:40.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[29Apr2025 05:35:16.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[29Apr2025 05:35:16.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
