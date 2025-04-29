@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-25 23:22:25 +0000",
+      "minecraft:frozen_river": "2025-04-29 21:20:21 +0000",
       "minecraft:cherry_grove": "2025-04-29 20:54:12 +0000",
       "minecraft:sunflower_plains": "2025-04-29 20:55:56 +0000",
       "minecraft:bamboo_jungle": "2025-04-25 22:59:16 +0000",
@@ -26,6 +27,7 @@
       "minecraft:river": "2025-04-26 04:40:38 +0000",
       "minecraft:stony_shore": "2025-04-25 22:59:28 +0000",
       "minecraft:snowy_plains": "2025-04-29 21:03:30 +0000",
+      "minecraft:snowy_taiga": "2025-04-29 21:20:16 +0000",
       "minecraft:forest": "2025-04-26 05:23:27 +0000",
       "minecraft:lush_caves": "2025-04-26 06:05:33 +0000",
       "minecraft:desert": "2025-04-25 22:49:31 +0000",
@@ -2990,15 +2992,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-04-29 20:57:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/place_feast": {
     "criteria": {
       "rice_roll_medley": "2025-04-29 20:57:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-29 20:57:16 +0000"
     },
     "done": true
   },
@@ -3011,6 +3013,30 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-29 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-29 21:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-29 21:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-29 21:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-29 21:16:38 +0000"
     },
     "done": true
   },

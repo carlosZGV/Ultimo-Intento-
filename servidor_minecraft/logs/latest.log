@@ -169,3 +169,16 @@
 [29Apr2025 21:07:36.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:34867] logged in with entity id 22463 at (-3922.903180175228, 135.99199957802233, 373.82590493732863)
 [29Apr2025 21:07:36.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
 [29Apr2025 21:07:36.790] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[29Apr2025 21:17:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [The Parrots and the Bats]
+[29Apr2025 21:18:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> ZZZZ
+[29Apr2025 21:18:52.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.210.22.254:58689] logged in with entity id 31125 at (-1375.699999988079, 96.0, 1545.0603587321953)
+[29Apr2025 21:18:52.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
+[29Apr2025 21:18:52.553] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)
+[29Apr2025 21:22:59.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1325, y=95, z=2958} BlockPos{x=-1327, y=93, z=2957}
+[29Apr2025 21:23:02.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1318, y=96, z=2954} BlockPos{x=-1318, y=94, z=2952}
+[29Apr2025 21:25:39.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1359, y=75, z=1549} BlockPos{x=-1358, y=77, z=1549}
+[29Apr2025 21:25:39.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1359, y=74, z=1549} BlockPos{x=-1358, y=77, z=1549}
+[29Apr2025 21:25:39.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1359, y=73, z=1549} BlockPos{x=-1358, y=77, z=1549}
+[29Apr2025 21:25:39.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1359, y=72, z=1549} BlockPos{x=-1358, y=77, z=1549}
+[29Apr2025 21:28:04.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=90, z=2972} BlockPos{x=-1335, y=89, z=2972}
+[29Apr2025 21:30:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> ZZZZ

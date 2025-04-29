@@ -3358,6 +3358,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-29 21:22:14 +0000",
       "tomato": "2025-04-29 19:57:37 +0000",
       "rice": "2025-04-29 20:18:13 +0000",
       "sugar_cane": "2025-04-29 19:38:52 +0000",
@@ -3619,6 +3620,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-29 21:17:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-04-29 21:05:04 +0000"
@@ -3631,9 +3638,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-04-29 21:18:05 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-04-29 20:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-29 21:32:00 +0000"
     },
     "done": true
   },
