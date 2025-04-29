@@ -30,6 +30,7 @@
       "minecraft:ocean": "2025-04-25 23:22:22 +0000",
       "minecraft:windswept_savanna": "2025-04-25 23:24:30 +0000",
       "minecraft:warm_ocean": "2025-04-25 22:50:35 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-29 05:08:34 +0000",
       "minecraft:savanna": "2025-04-25 22:57:07 +0000",
       "minecraft:plains": "2025-04-25 22:49:06 +0000"
     },
@@ -2436,6 +2437,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-04-29 05:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-29 04:48:41 +0000"
@@ -2525,6 +2532,12 @@
       "has_spruce_planks": "2025-04-29 04:20:58 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-04-29 05:14:10 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/myrmex_jungle_boots": {
     "criteria": {
@@ -2691,6 +2704,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-29 04:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-29 05:15:58 +0000"
     },
     "done": true
   },
