@@ -1013,6 +1013,8 @@
       "minecraft:pillager": "2025-04-26 04:40:56 +0000",
       "minecraft:skeleton": "2025-04-26 21:16:27 +0000",
       "minecraft:spider": "2025-04-26 05:27:30 +0000",
+      "minecraft:creeper": "2025-04-29 17:16:06 +0000",
+      "minecraft:enderman": "2025-04-29 17:39:20 +0000",
       "minecraft:zombie": "2025-04-26 05:27:48 +0000"
     },
     "done": false
@@ -2195,6 +2197,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-04-29 16:58:04 +0000",
       "minecraft:wolf": "2025-04-26 05:58:24 +0000"
     },
     "done": false
@@ -2561,8 +2564,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-29 16:59:31 +0000",
       "sweet_berries": "2025-04-26 22:11:07 +0000",
-      "wheat": "2025-04-26 21:28:02 +0000"
+      "tomato": "2025-04-29 16:59:34 +0000",
+      "wheat": "2025-04-26 21:28:02 +0000",
+      "carrot": "2025-04-29 16:55:49 +0000"
     },
     "done": false
   },
@@ -2974,6 +2980,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-29 16:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-29 17:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-04-29 15:44:05 +0000"
@@ -2989,6 +3007,30 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-29 16:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-29 17:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-29 17:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 17:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-29 16:55:55 +0000"
     },
     "done": true
   },
@@ -3022,6 +3064,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-29 17:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-04-29 16:28:54 +0000"
@@ -3037,6 +3085,18 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-29 16:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-29 16:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 17:16:22 +0000"
     },
     "done": true
   },

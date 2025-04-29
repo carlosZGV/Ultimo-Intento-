@@ -165,3 +165,5 @@
 [29Apr2025 16:15:49.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1694, y=40, z=2348} but found not block entity block Block{minecraft:water}[level=0] at location
 [29Apr2025 16:15:49.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1694, y=40, z=2348}
 [29Apr2025 16:23:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has reached the goal [Off you go]
+[29Apr2025 17:15:59.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Take Aim]
+[29Apr2025 17:39:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was slain by Enderman
