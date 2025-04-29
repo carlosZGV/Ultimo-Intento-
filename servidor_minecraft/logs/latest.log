@@ -261,3 +261,6 @@
 [29Apr2025 22:39:27.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
 [29Apr2025 22:40:07.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
 [29Apr2025 22:40:07.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[29Apr2025 23:50:21.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:52859] logged in with entity id 87836 at (-3648.671072832074, 89.0, 455.02886151725755)
+[29Apr2025 23:50:21.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[29Apr2025 23:50:21.172] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
