@@ -162,3 +162,6 @@
 [29Apr2025 15:19:37.744] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [29Apr2025 15:19:41.833] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/672, l='ServerLevel[world]', x=-1472.66, y=73.00, z=1986.66]
 [29Apr2025 16:06:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was shot by Skeleton
+[29Apr2025 16:15:49.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1694, y=40, z=2348} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Apr2025 16:15:49.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1694, y=40, z=2348}
+[29Apr2025 16:23:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has reached the goal [Off you go]
