@@ -3786,9 +3786,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-04-30 00:42:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_organic_compost": {
     "criteria": {
       "place_organic_compost": "2025-04-30 00:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:50:51 +0000"
     },
     "done": true
   },
@@ -3804,6 +3822,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-04-30 00:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-04-30 00:10:39 +0000",
@@ -3814,6 +3850,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-04-30 00:27:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
     },
     "done": true
   },
@@ -3832,6 +3874,12 @@
   "friendsandfoes:adventure/complete_hide_and_seek_game": {
     "criteria": {
       "friendsandfoes:complete_hide_and_seek_game": "2025-04-30 00:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
     },
     "done": true
   },

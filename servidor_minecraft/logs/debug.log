@@ -3719,3 +3719,8 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [30Apr2025 00:37:05.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Apr2025 00:42:05.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Apr2025 00:42:05.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 00:47:05.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 00:47:05.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 00:52:05.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 00:52:05.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 00:53:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has reached the goal [Pray to the Goddess]
