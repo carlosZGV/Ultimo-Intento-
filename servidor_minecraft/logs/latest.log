@@ -197,3 +197,5 @@
 [30Apr2025 01:22:24.673] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
 [30Apr2025 01:24:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo was shot by Skeleton
 [30Apr2025 01:26:47.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Stay Out of my Peripheral!]
+[30Apr2025 01:30:05.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
+[30Apr2025 01:30:05.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
