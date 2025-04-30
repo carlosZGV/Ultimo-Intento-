@@ -199,3 +199,5 @@
 [30Apr2025 01:26:47.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Stay Out of my Peripheral!]
 [30Apr2025 01:30:05.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sbPollo lost connection: Disconnected
 [30Apr2025 01:30:05.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
+[30Apr2025 02:05:45.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[30Apr2025 02:09:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [What a Deal!]

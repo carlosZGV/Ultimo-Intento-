@@ -2155,6 +2155,7 @@
     "criteria": {
       "cabbage": "2025-04-26 20:32:26 +0000",
       "onion": "2025-04-30 00:09:22 +0000",
+      "rice": "2025-04-30 02:13:31 +0000",
       "sugar_cane": "2025-04-29 04:49:28 +0000",
       "potato": "2025-04-26 20:31:01 +0000",
       "wheat": "2025-04-26 20:31:13 +0000"
@@ -3781,6 +3782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-30 02:18:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-30 01:07:05 +0000"
@@ -3814,6 +3821,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-04-30 02:11:03 +0000"
     },
     "done": true
   },
@@ -3914,6 +3927,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-04-30 02:00:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-04-30 01:43:59 +0000"
@@ -3935,6 +3954,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-30 02:13:31 +0000"
     },
     "done": true
   },
@@ -3962,9 +3987,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-30 02:16:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/canvas": {
     "criteria": {
       "has_straw": "2025-04-30 01:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-30 02:09:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-04-30 02:02:47 +0000"
     },
     "done": true
   },
@@ -4004,6 +4047,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-30 02:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-30 00:50:51 +0000"
@@ -4019,6 +4068,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-04-30 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-04-30 02:11:03 +0000"
     },
     "done": true
   },
