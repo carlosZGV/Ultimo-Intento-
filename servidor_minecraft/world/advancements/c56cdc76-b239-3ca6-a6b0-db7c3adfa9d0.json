@@ -3841,6 +3841,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-04-30 01:51:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2025-04-30 01:26:47 +0000"
@@ -4021,6 +4027,12 @@
       "phantom": "2025-04-30 01:34:35 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-04-30 01:48:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
