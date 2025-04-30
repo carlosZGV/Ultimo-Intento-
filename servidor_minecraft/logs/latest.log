@@ -185,3 +185,6 @@
 [30Apr2025 00:33:20.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Apr2025 00:34:27.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Hide and Seek]
 [30Apr2025 00:53:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has reached the goal [Pray to the Goddess]
+[30Apr2025 01:08:54.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sbPollo[/127.34.92.145:41459] logged in with entity id 129271 at (-1327.9316974006103, 82.0, 2924.6968901690593)
+[30Apr2025 01:08:54.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo joined the game
+[30Apr2025 01:08:54.785] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
