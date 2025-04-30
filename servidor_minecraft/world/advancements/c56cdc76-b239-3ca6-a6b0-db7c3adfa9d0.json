@@ -518,6 +518,7 @@
       "minecraft:spider": "2025-04-26 20:33:58 +0000",
       "minecraft:creeper": "2025-04-26 05:01:27 +0000",
       "minecraft:witch": "2025-04-26 04:35:47 +0000",
+      "minecraft:cave_spider": "2025-04-30 00:31:41 +0000",
       "minecraft:enderman": "2025-04-28 01:33:16 +0000",
       "minecraft:zombie": "2025-04-26 04:17:55 +0000"
     },
@@ -3791,6 +3792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-30 00:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-30 00:09:40 +0000"
@@ -3804,9 +3811,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-30 00:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-04-30 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-30 00:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-30 00:27:25 +0000"
     },
     "done": true
   },
