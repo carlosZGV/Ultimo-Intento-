@@ -3730,27 +3730,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-29 04:29:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cabbage_from_leaves": {
     "criteria": {
       "has_cabbage_leaf": "2025-04-29 04:29:57 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-04-29 04:36:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2025-04-29 04:51:32 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-04-29 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-29 04:36:14 +0000"
     },
     "done": true
   },
@@ -3766,9 +3766,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "farmersdelight:main/place_skillet": {
     "criteria": {
-      "has_hay_block": "2025-04-29 04:29:15 +0000"
+      "skillet": "2025-04-29 04:51:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-30 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-30 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-30 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-30 00:01:21 +0000"
     },
     "done": true
   },
