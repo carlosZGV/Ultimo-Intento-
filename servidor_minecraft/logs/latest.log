@@ -201,3 +201,12 @@
 [30Apr2025 01:30:05.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo left the game
 [30Apr2025 02:05:45.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
 [30Apr2025 02:09:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [What a Deal!]
+[30Apr2025 02:40:56.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sbPollo[/127.34.92.145:35013] logged in with entity id 169887 at (-1330.9490554614545, 99.0, 2937.2258344228903)
+[30Apr2025 02:40:56.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sbPollo joined the game
+[30Apr2025 02:40:56.976] [Server thread/INFO] [Jade/]: Syncing config to sbPollo (06b9f142-8546-3480-ba73-21ec1037d99e)
+[30Apr2025 02:41:12.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.7975616125886579
+[30Apr2025 02:41:12.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.8334443637739997
+[30Apr2025 02:41:12.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.8657471623759646
+[30Apr2025 02:41:12.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.8948256894549992
+[30Apr2025 02:41:12.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.9210007677782622
+[30Apr2025 02:41:12.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.9445616077091983
