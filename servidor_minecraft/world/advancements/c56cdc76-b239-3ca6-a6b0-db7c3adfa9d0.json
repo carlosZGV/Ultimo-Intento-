@@ -2152,6 +2152,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-04-26 20:32:26 +0000",
+      "onion": "2025-04-30 00:09:22 +0000",
       "sugar_cane": "2025-04-29 04:49:28 +0000",
       "potato": "2025-04-26 20:31:01 +0000",
       "wheat": "2025-04-26 20:31:13 +0000"
@@ -3783,6 +3784,25 @@
       "has_any_ingredient": "2025-04-30 00:01:21 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-04-30 00:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-30 00:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-04-30 00:10:39 +0000",
+      "minecraft:chicken": "2025-04-30 00:09:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/bowl": {
     "criteria": {

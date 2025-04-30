@@ -3520,3 +3520,8 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [30Apr2025 00:02:05.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Apr2025 00:02:05.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Apr2025 00:02:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> entra a discord ctmr
+[30Apr2025 00:07:05.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 00:07:05.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 00:09:40.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [The Parrots and the Bats]
+[30Apr2025 00:12:05.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 00:12:05.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
